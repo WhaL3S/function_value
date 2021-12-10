@@ -1,6 +1,7 @@
 # function_value
 <pre>
 Calculates the value of the function:
+
        {𝑓1(𝑥), when condition 1
 𝑓(𝑥) = {𝑓2(𝑥), when condition 2 
        {𝑓3(𝑥), otherwise
